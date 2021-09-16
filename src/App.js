@@ -29,7 +29,6 @@ function App() {
         </button>
 
       </model-viewer>
-      <img src="https://docs.google.com/uc?id=1cVkGp-_8nk_0wBqxhtaeQ1og8HLnlfep" />
     </div>
   );
 }
