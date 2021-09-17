@@ -27,7 +27,7 @@ function App() {
   {
     return (
       <div className={App}>
-        <model-viewer className="modelviewer" style={modelViewer} src="https://github.com/RiteshK-611/webxr-ar/blob/main/assets/sofa.gltf"
+        <model-viewer className="modelviewer" style={modelViewer} src={hand} /* "https://github.com/RiteshK-611/webxr-ar/blob/main/assets/sofa.gltf" */
           ios-src="https://modelviewer.dev/shared-assets/models/Astronaut.usdz"
           alt="A 3D model of an astronaut"
           ar
